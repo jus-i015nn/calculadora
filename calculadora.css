@@ -5,6 +5,7 @@ body {
 
 }
 
+/* Aplicando estilos para la tabla, celdas y título de la tabla */
 table , caption , th  , td {
 
     color: white;
@@ -14,6 +15,7 @@ table , caption , th  , td {
 
 }
 
+/* Aplicando estilos a los botones */
 button {
 
     width: 75px;
@@ -22,6 +24,7 @@ button {
 
 }
 
+/* Aplicando estilos a la pantalla con el selector de id */
 #pantalla {
 
     width: 320px;

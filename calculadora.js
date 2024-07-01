@@ -24,6 +24,7 @@ function cambiarSigno() {
 
 }
 
+//Definimos una función para calcular la operación
 function operacion(op) {
 
     primerNumero = Number(pantalla.value);
@@ -32,6 +33,7 @@ function operacion(op) {
 
 }
 
+//Definimos una función para calcular la operación
 function calcular() {
 
     segundoNumero = Number(pantalla.value)
@@ -63,6 +65,8 @@ function calcular() {
     pantalla.value = resultado;
 
 }
+
+//Definimos una función para el porcentaje
 function porcentaje() {
 
     segundoNumero = Number(pantalla.value);
